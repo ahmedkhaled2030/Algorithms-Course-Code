@@ -1,4 +1,4 @@
-# Algorithms Course Code "Shadow Coding on youtube"
+# Algorithms Course Code
 
 ## Hey there.🙋‍♂️
 
